@@ -1,0 +1,5 @@
+ 
+
+.circle-chart__circle svg:hover {
+    stroke: lightgrey;
+}
